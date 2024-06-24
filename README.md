@@ -54,7 +54,7 @@ La respuesta de la api será el objeto del perro creado en la base de datos.
 ##### Metodo 
 `GET`
 ##### path 
-`/unicorns`
+`/dogs`
 ##### Respuesta
 La respuesta de la api sera un arreglo de objetos de los perros.
 ##
